@@ -14,7 +14,7 @@
  
 <br>
  
-### Para conteúdo sobre programação me sigam nas redes socioais abaixo!
+### Para conteúdo sobre programação me sigam nas mídias sociais abaixo!
  
 <div> 
   <a href="https://instagram.com/alexandre.someraldi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
